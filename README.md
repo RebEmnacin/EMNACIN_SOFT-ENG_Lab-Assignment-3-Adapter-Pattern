@@ -1,0 +1,1 @@
+# EMNACIN_SOFT-ENG_Lab-Assignment-3-Adapter-Pattern
